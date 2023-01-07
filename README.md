@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **thierry.yabre12@gmail.com**
 
-- 📄 Know about my experiences [file:///Users/thierryyabre/Downloads/Copy%20of%20Thierry%20Yabre%20(1).pdf](file:///Users/thierryyabre/Downloads/Copy%20of%20Thierry%20Yabre%20(1).pdf)
+- 📄 Know about my experiences: https://personal-app-git-main-cresus9.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
